@@ -1,0 +1,96 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/personality---primary.py
+inputModule3:
+  class: File
+  path: python/psychoneurotic-personality-disorders---primary.py
+inputModule4:
+  class: File
+  path: python/paranoid-personality-disorders---primary.py
+inputModule5:
+  class: File
+  path: python/schizoid-personality-disorders---primary.py
+inputModule6:
+  class: File
+  path: python/personality-disorders-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/personality-disorders---primary.py
+inputModule8:
+  class: File
+  path: python/explosive-personality-disorders---primary.py
+inputModule9:
+  class: File
+  path: python/aggressive-personality-disorders---primary.py
+inputModule10:
+  class: File
+  path: python/compulsive-personality-disorders---primary.py
+inputModule11:
+  class: File
+  path: python/anankastic-personality-disorders---primary.py
+inputModule12:
+  class: File
+  path: python/obsessional-personality-disorders---primary.py
+inputModule13:
+  class: File
+  path: python/histrionic-personality-disorders---primary.py
+inputModule14:
+  class: File
+  path: python/hysterical-personality-disorders---primary.py
+inputModule15:
+  class: File
+  path: python/unstable-personality-disorders---primary.py
+inputModule16:
+  class: File
+  path: python/personality-disorders-psychoinfantile---primary.py
+inputModule17:
+  class: File
+  path: python/inadequate-personality-disorders---primary.py
+inputModule18:
+  class: File
+  path: python/asthenic-personality-disorders---primary.py
+inputModule19:
+  class: File
+  path: python/dependent-personality-disorders---primary.py
+inputModule20:
+  class: File
+  path: python/sociopathic-personality-disorders---primary.py
+inputModule21:
+  class: File
+  path: python/amoral-personality-disorders---primary.py
+inputModule22:
+  class: File
+  path: python/other-personality-disorders---primary.py
+inputModule23:
+  class: File
+  path: python/narcissistic-personality-disorders---primary.py
+inputModule24:
+  class: File
+  path: python/personality-disorders-avoidant---primary.py
+inputModule25:
+  class: File
+  path: python/personality-disorders-borderline---primary.py
+inputModule26:
+  class: File
+  path: python/eccentric-personality-disorders---primary.py
+inputModule27:
+  class: File
+  path: python/personality-disorders-immature---primary.py
+inputModule28:
+  class: File
+  path: python/psychopathic-personality-disorders---primary.py
+inputModule29:
+  class: File
+  path: python/specific-personality-disorders---primary.py
+inputModule30:
+  class: File
+  path: python/antisocial-personality-disorders---primary.py
+inputModule31:
+  class: File
+  path: python/personality-disorders---secondary.py
+inputModule32:
+  class: File
+  path: python/output-cases.py
